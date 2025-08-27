@@ -1,4 +1,4 @@
-# Astro Starter Kit: Basics
+# My Harvard CV - Built with Astro
 
 ```sh
 npm create astro@latest -- --template basics
@@ -44,3 +44,7 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+=======
+# my-harvard-cv
+>>>>>>> 7ab71624675701957188951561c52c1e05e2dd51
